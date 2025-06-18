@@ -34,10 +34,10 @@ To run the app locally:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/My-To-Do-List.git
+git clone https://github.com/giorgosbour7/My-To-Do-List.git
 
 # 2. Navigate to the folder
-cd My-To-Do-List
+cd my-to-list
 
 # 3. Install dependencies
 npm install
